@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "tank", "tank\tank.cproj", "{F6B17FE8-72B0-4A84-A98E-D59A21CC8D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B17FE8-72B0-4A84-A98E-D59A21CC8D55}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F6B17FE8-72B0-4A84-A98E-D59A21CC8D55}.Debug|AVR.Build.0 = Debug|AVR
+		{F6B17FE8-72B0-4A84-A98E-D59A21CC8D55}.Release|AVR.ActiveCfg = Release|AVR
+		{F6B17FE8-72B0-4A84-A98E-D59A21CC8D55}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
